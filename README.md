@@ -41,7 +41,7 @@ Como Rodar o Projeto
 bater
 
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://JeanRodriz.github.io/gestao_ordens
 cd nome-do-repositorio
 2. Instalar as Dependências
 Certifique-se de ter o Node.js instalado em sua máquina. Para instalar as dependências, execute:
